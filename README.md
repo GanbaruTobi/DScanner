@@ -19,11 +19,12 @@ CTF-ready: Hunts for flags in common locations (e.g., flag.txt, .hidden/).
 
 Installation
 
+``
 Clone the repository: git clone https://github.com/ClumsyLulz/DScanner.git cd DScanner
 Install dependencies: pip install -r requirements.txt
 Make executable (Linux/Mac): chmod +x DScanner.py
 Optional - Install as command (Linux/Mac): sudo cp DScanner.py /usr/local/bin/DScanner sudo chmod +x /usr/local/bin/DScanner
-
+``
 Requirements
 
 Python 3.6+
